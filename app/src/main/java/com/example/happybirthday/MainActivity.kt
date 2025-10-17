@@ -32,7 +32,7 @@ class MainActivity : ComponentActivity() {
                     modifier = Modifier.fillMaxSize(),
                     color = MaterialTheme.colorScheme.background
                 ) {
-                    GreetingText(message = "Happy birthday Sam!",
+                    GreetingText(message = "Happy birthday Sam!!",
                                  from = "From Emma",
                                  modifier = Modifier.padding(8.dp)
                     )
